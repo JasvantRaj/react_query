@@ -10,7 +10,7 @@ function App() {
     // <QueryClientProvider client={queryClient}>
     //   <Home />
     // </QueryClientProvider>
-    <div>Hello Testing</div>
+    <div>Hello Testing testing</div>
   );
 }
 
